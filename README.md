@@ -34,3 +34,11 @@ V1.0:
 
 - [Assembled STL](https://github.com/drcyberg/PCB_Drilling_Machine/blob/master/szerelt.stl "Assembled")
 - [Assembled STP](https://github.com/drcyberg/PCB_Drilling_Machine/blob/master/drilling_machine.stp "Assembled")
+
+---
+
+### If you want to support me: [Donate](https://www.paypal.me/Kunee82 "Donate")
+
+---
+
+### Have a nice day!
