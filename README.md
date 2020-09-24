@@ -32,8 +32,8 @@ V1.0:
 
 ### 3D Models:
 
-- [Assembled STL](https://github.com/drcyberg/PCB_Drilling_Machine/szerelt.stl "Assembled")
-- [Assembled STP](https://github.com/drcyberg/PCB_Drilling_Machine/drilling_machine.stp "Assembled")
+- [Assembled STL](https://github.com/drcyberg/PCB_Drilling_Machine/blob/master/szerelt.stl "Assembled")
+- [Assembled STP](https://github.com/drcyberg/PCB_Drilling_Machine/blob/master/drilling_machine.stp "Assembled")
 
 ---
 
