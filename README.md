@@ -23,17 +23,17 @@ V1.0:
 
 ### Samples:
 
-![](https://github.com/drcyberg/PCB_Drilling_Machine/blob/master/szerelt_1.jpg)
-![](https://github.com/drcyberg/PCB_Drilling_Machine/blob/master/szerelt_2.jpg)
-![](https://github.com/drcyberg/PCB_Drilling_Machine/blob/master/szerelt_3.jpg)
-![](https://github.com/drcyberg/PCB_Drilling_Machine/blob/master/szerelt_4.jpg)
+![](/szerelt_1.jpg)
+![](/szerelt_2.jpg)
+![](/szerelt_3.jpg)
+![](/szerelt_4.jpg)
 
 ---
 
 ### 3D Models:
 
-- [Assembled STL](https://github.com/drcyberg/PCB_Drilling_Machine/blob/master/szerelt.stl "Assembled")
-- [Assembled STP](https://github.com/drcyberg/PCB_Drilling_Machine/blob/master/drilling_machine.stp "Assembled")
+- [Assembled STL](/szerelt.stl "Assembled")
+- [Assembled STP](/drilling_machine.stp "Assembled")
 
 ---
 
