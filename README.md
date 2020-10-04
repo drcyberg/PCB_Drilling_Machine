@@ -2,14 +2,18 @@
 
 ---
 
-### Specifications:
+## Specifications:
 
-V1.1:
+### V1.2:
+
+- Better stability performance for sliding
+
+### V1.1:
 
 - Add 4 gum stand feets
 - More air flows to the motor
 
-V1.0:
+### V1.0:
 
 - Left and right handle mounting (optional)
 - Adjustable Z axis (10mm)
