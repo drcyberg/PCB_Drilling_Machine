@@ -11,7 +11,7 @@ For this purpose, an manual PCB drilling machine is designed. Creating holes on 
 
 ### V1.2:
 
-- Better stability performance for sliding
+- Better stability and performance for exact sliding
 
 ### V1.1:
 
