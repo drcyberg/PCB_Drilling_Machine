@@ -25,7 +25,7 @@
 
 ---
 
-### Samples:
+## Samples:
 
 ![](/szerelt_1.jpg)
 ![](/szerelt_2.jpg)
@@ -34,15 +34,15 @@
 
 ---
 
-### 3D Models:
+## 3D Models:
 
 - [Assembled STL](https://github.com/drcyberg/PCB_Drilling_Machine/blob/master/szerelt.stl "Assembled")
 - [Assembled STP](https://github.com/drcyberg/PCB_Drilling_Machine/blob/master/drilling_machine.stp "Assembled")
 
 ---
 
-### If you want to support me: [Donate](https://www.paypal.me/Kunee82 "Donate")
+## If you want to support me: [Donate](https://www.paypal.me/Kunee82 "Donate")
 
 ---
 
-### Have a nice day!
+## Have a nice day!
