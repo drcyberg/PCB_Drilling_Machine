@@ -6,6 +6,7 @@
 
 For this purpose, an manual PCB drilling machine is designed. Creating holes on single or multilayer printed circuit boards (PCBs) is an important stage in electronic production. Holes of different sizes and at a large number of positions must be drilled with high precision for manual insertion of various electronic devices and components. In this method, PCB pattern of the circuit schematic diagram is extracted from a sample PCB using image processing techniques and stepper motors are used to move drill to the required position.
 
+![](/pcb_drilling_machine_logo.jpg)
 ---
 ## Changelogs:
 
