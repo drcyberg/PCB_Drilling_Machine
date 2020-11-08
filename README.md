@@ -33,10 +33,7 @@ For this purpose, an manual PCB drilling machine is designed. Creating holes on 
 
 ## Samples:
 
-![](/szerelt_1.jpg)
-![](/szerelt_2.jpg)
-![](/szerelt_3.jpg)
-![](/szerelt_4.jpg)
+![](/samples.jpg)
 
 ---
 
