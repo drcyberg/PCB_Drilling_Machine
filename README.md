@@ -1,5 +1,7 @@
 # PCB Drilling Machine
 
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/drcyberg/PCB_Drilling_Machine_V1)](https://github.com/drcyberg/PCB_Drilling_Machine_V1/releases/tag/V1.2)  [![GitHub](https://img.shields.io/github/license/drcyberg/PCB_Drilling_Machine_V1)](https://github.com/drcyberg/PCB_Drilling_Machine_V1/blob/master/LICENSE)  [![GitHub release (by tag)](https://img.shields.io/github/downloads/drcyberg/PCB_Drilling_Machine_V1/V1.2/total)](https://github.com/drcyberg/PCB_Drilling_Machine_V1/archive/master.zip)  [![Website](https://img.shields.io/website?up_message=PCB_Drilling_Machine_V1&url=https%3A%2F%2Fdrcyberg.github.io%2FPCB_Drilling_Machine_V1%2F)](https://drcyberg.github.io/PCB_Drilling_Machine_V1/)  [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/drcyberg?tab=repositories)  [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/drcyberg)  [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/Kunee82)  [![GitHub followers](https://img.shields.io/github/followers/drcyberg?style=social)](https://github.com/drcyberg?tab=followers)
+
 ---
 
 ## Description:
